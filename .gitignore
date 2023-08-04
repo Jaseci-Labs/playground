@@ -1,0 +1,8 @@
+node_modules
+main
+main.js
+main.jac
+.cache
+dist
+playground/*
+.jaseci_logs
